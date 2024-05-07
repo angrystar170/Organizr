@@ -512,7 +512,7 @@
         "Bind Username": "사용자 이름 바이딩",
         "Account suffix - start with comma - ,ou=people,dc=domain,dc=tld": "계정 접미사 - 쉼표로 시작함 - ,ou=people,dc=domain,dc=tld",
         "Account Suffix": "계정 접미사",
-        "Account prefix - i.e. Controller\\Username의 Controller\\(AD용) - uid= (OpenLDAP용)": "계정 접두사 - 예: Controller\\ from Controller\\Username for AD - uid= for OpenLDAP",
+        "Account prefix - i.e. Controller\\ from Controller\\Username for AD - uid= for OpenLDAP": "계정 접두사 - 예: Controller\\Username의 Controller\\(AD용) - uid= (OpenLDAP용)",
         "Account Prefix": "계정 접두사",
         "LDAP Backend Type": "LDAP 백엔드 유형",
         "Strict Plex Friends": "엄격한 Plex 친구",
