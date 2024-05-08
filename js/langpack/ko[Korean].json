@@ -825,6 +825,7 @@
         "Health Checks": "Health Checks",
         "UniFi": "UniFi",
         "Connection Error to rTorrent": "rTorrent 연결 오류",
-        "Request a Show or Movie": "쇼 또는 영화 요청"
+        "Request a Show or Movie": "쇼 또는 영화 요청",
+        "Marketplace Settings": "스토어 설정"
     }
 }
