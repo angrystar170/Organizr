@@ -852,6 +852,19 @@
         "Side Menu Collapsed at Launch": "실행시 사이드 메뉴 접기",
         "Disable Homepage Saved Modal": "홈페이지 저장 모달 비활성화",
         "Disable the modal when saving homepage config settings": "홈페이지 구성 설정을 저장할 때 모달을 비활성화합니다",
-        "Show Easter Eggs": "이스터 에그 표시"
+        "Show Easter Eggs": "이스터 에그 표시",
+        "API Documentation": "API 문서",
+        "The documentation for Organizr's API is included with this installation. To access the docs, use the button below.": "Organizr의 API에 대한 문서는 이 설치에 포함되어 있습니다. 문서에 액세스하려면 아래 버튼을 사용하세요.",
+        "Organizr Docs": "Organizr 문서",
+        "API Key/Token": "API 키/토큰",
+        "Plex Admin Username or Email": "Plex Admin 사용자 이름 혹은 이메일",
+        "Overseerr Fallback Email": "Overseerr 대체 이메일",
+        "Petio Fallback Email": "Petio 대체 이메일",
+        "Ombi Fallback Email": "Ombi 대체 이메일",
+        "Komga Fallback Email": "Komga 대체 이메일",
+        "Komga Fallback Password": "Komga 대체 암호",
+        "Komga Master Password": "Komga 마스터 암호",
+        "Show": "표시된 항목 수: ",
+        "entries": "개의 항목"
     }
 }
