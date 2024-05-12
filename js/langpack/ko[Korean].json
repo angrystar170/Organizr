@@ -829,7 +829,9 @@
         "Marketplace Settings": "스토어 설정",
         "Theme Settings": "테마 설정",
         "Plugin Settings": "플러그인 설정",
-        "3rd Party Repositories are not affiliated with Organizr and therefore the themes on these repositories are not inspected. Use at your own risk.": "서드파티 리포지토리는 Organizr과 관련이 없으므로 이러한 리포지토리의 테마는 검사되지 않습니다. 자신의 책임하에 사용하십시오.",
+        "3rd Party Repositories are not affiliated with Organizr and therefore the themes on these repositories are not inspected.": "서드파티 리포지토리는 Organizr과 관련이 없으므로 이러한 리포지토리의 테마는 검사되지 않습니다.",
+        "3rd Party Repositories are not affiliated with Organizr and therefore the code on these repositories are not inspected.": "서드파티 리포지토리는 Organizr과 관련이 없으므로 이러한 리포지토리의 코드는 검사되지 않습니다.",
+        "Use at your own risk.": "자신의 책임하에 사용하십시오.",
         "External Marketplace Repo": "외부 스토어 리포지토리",
         "Only supports Github repos": "Github 리포지토리만 지원합니다",
         "Github Person Access Token": "Github 개인 액세스 토큰",
@@ -863,6 +865,8 @@
         "Ombi Fallback Email": "Ombi 대체 이메일",
         "Komga Fallback Email": "Komga 대체 이메일",
         "Komga Fallback Password": "Komga 대체 암호",
-        "Komga Master Password": "Komga 마스터 암호"
+        "Komga Master Password": "Komga 마스터 암호",
+        "Use Random Media Wallpaper From Media Server": "미디어 서버에서 임의의 미디어 배경화면 사용",
+        "Login Wallpaper URL": "로그인 배경화면 URL"
     }
 }
