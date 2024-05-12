@@ -835,9 +835,9 @@
         "Github Person Access Token": "Github 개인 액세스 토큰",
         "The Github Person Access Token will help with API rate limiting as well as let you access your own Private Repos": "Github 개인 액세스 토큰은 API 속도 제한에 도움이 될 뿐만 아니라 자신의 개인 저장소에 액세스할 수 있게 해줍니다",
         "Check for Theme Updates": "테마 업데이트 확인",
-        "Min Group": "최소 그룹",
-        "Max Group": "최대 그룹",
-        "Add to Admin": "관리자 계정에 추가",
+        "MIN GROUP": "최소 그룹",
+        "MAX GROUP": "최대 그룹",
+        "ADD TO ADMIN": "관리자 계정에 추가",
         "Other": "기타"
     }
 }
