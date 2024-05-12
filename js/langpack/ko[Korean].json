@@ -838,6 +838,11 @@
         "MIN GROUP": "최소 그룹",
         "MAX GROUP": "최대 그룹",
         "ADD TO ADMIN": "관리자 계정에 추가",
-        "Other": "기타"
+        "Other": "기타",
+        "Socks": "Socks",
+        "Enable Debug Log": "디버그 로그 활성화",
+        "Enable the option to have socks output to logs": "Socks를 로그로 출력하는 옵션을 활성화합니다",
+        "Max Debug Data Rows": "최대 디버그 데이터 행 수",
+        "Max amount of rows in debug log": "디버그 로그의 최대 행 수를 지정합니다"
     }
 }
