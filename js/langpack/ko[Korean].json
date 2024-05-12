@@ -863,8 +863,6 @@
         "Ombi Fallback Email": "Ombi 대체 이메일",
         "Komga Fallback Email": "Komga 대체 이메일",
         "Komga Fallback Password": "Komga 대체 암호",
-        "Komga Master Password": "Komga 마스터 암호",
-        "Show": "표시된 항목 수: ",
-        "entries": "개의 항목"
+        "Komga Master Password": "Komga 마스터 암호"
     }
 }
