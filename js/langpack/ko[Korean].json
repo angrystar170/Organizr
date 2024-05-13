@@ -900,6 +900,27 @@
         "Match UserAgent": "UserAgent 일치",
         "Match Browser UserAgent to Token UserAgent - Can be very aggressive on matching": "브라우저 UserAgent를 토큰 UserAgent와 일치 - 일치 시 매우 공격적일 수 있음",
         "Cookie Header Guide": "쿠키 헤더 가이드",
-        "Custom Certificate not found - please upload below": "사용자 지정 인증서를 찾을 수 없습니다 - 아래의 드롭박스에 업로드하세요"
+        "Custom Certificate not found - please upload below": "사용자 지정 인증서를 찾을 수 없습니다 - 아래의 드롭박스에 업로드하세요",
+        "Libraries to Include": "포함할 라이브러리",
+        "Libraries to Exclude": "제외할 라이브러리",
+        "User Information Without IP": "IP가 없는 사용자 정보",
+        "Only shows username and no IP information": "사용자 이름만 표시되고 IP 정보는 표시되지 않습니다",
+        "Active Streams": "활성 스트림",
+        "Recent Items": "최근 항목",
+        "Media Search": "미디어 검색",
+        "Media Search Server": "미디어 검색 서버",
+        "Playlists": "재생 목록",
+        "Image Cache Quality": "이미지 캐시 품질",
+        "Use Tautulli custom names for users": "사용자에 대해 Tautulli 사용자 지정 이름 사용",
+        "Library Stats": "라이브러리 통계",
+        "Viewing Stats": "뷰잉 통계",
+        "Misc Stats": "기타 통계",
+        "Use Friendly Name": "친숙한 이름 사용",
+        "Use the friendly name set in tautulli for users.": "사용자를 위해 tautulli에 설정된 친숙한 이름을 사용합니다.",
+        "Multiple API Key/Token's": "다중 API 키/토큰",
+        "Use Custom Certificate": "사용자 지정 인증서 사용",
+        "TAUTULLI SOCKS API CONNECTION": "TAUTULLI SOCKS API 연결",
+        "Using this feature allows you to access the API without having to reverse proxy it. Just access it from:": "이 기능을 사용하면 역방향 프록시를 사용하지 않고도 API에 액세스할 수 있습니다. 다음에서 액세스하세요:",
+        "If you are using multiple URL's (using the csv method) you will have to use the url like these:": "여러 URL을 사용하는 경우(csv 메서드 사용) 다음과 같이 URL을 사용해야 합니다:"
     }
 }
