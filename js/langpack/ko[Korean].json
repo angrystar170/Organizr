@@ -292,7 +292,7 @@
         "PHP Version Check": "PHP 버전 확인",
         "Don\\'t have an account?": "계정이 없습니까?",
         "The value of #987654 is just a placeholder, you can change to any value you like.": "#987654의 값은 자리 표시자일 뿐이므로 원하는 값으로 변경할 수 있습니다.",
-        "This is not the same as database authentication - i.e. Plex Authentication | Emby Authentication | FTP Authentication": "이는 데이터베이스 인증 - 예: Plex 인증 | Emby 인증 | FTP 인증",
+        "This is not the same as database authentication - i.e. Plex Authentication | Emby Authentication | FTP Authentication": "이는 데이터베이스 인증과 동일하지 않습니다 - 예: Plex 인증 | Emby 인증 | FTP 인증",
         "Status: [ ": "상태: [ ",
         "This module requires XMLRPC": "이 모듈에는 XMLRPC가 필요합니다",
         "Misc Options": "기타 옵션",
