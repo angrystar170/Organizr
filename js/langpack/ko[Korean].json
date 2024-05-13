@@ -918,6 +918,7 @@
         "Use Friendly Name": "친숙한 이름 사용",
         "Use the friendly name set in tautulli for users.": "사용자를 위해 tautulli에 설정된 친숙한 이름을 사용합니다.",
         "Multiple API Key/Token's": "다중 API 키/토큰",
-        "Use Custom Certificate": "사용자 지정 인증서 사용"
+        "Use Custom Certificate": "사용자 지정 인증서 사용",
+        "Show monitor latency": "모니터 지연 시간 표시"
     }
 }
