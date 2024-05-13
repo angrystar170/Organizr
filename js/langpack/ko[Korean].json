@@ -918,9 +918,6 @@
         "Use Friendly Name": "친숙한 이름 사용",
         "Use the friendly name set in tautulli for users.": "사용자를 위해 tautulli에 설정된 친숙한 이름을 사용합니다.",
         "Multiple API Key/Token's": "다중 API 키/토큰",
-        "Use Custom Certificate": "사용자 지정 인증서 사용",
-        "TAUTULLI SOCKS API CONNECTION": "TAUTULLI SOCKS API 연결",
-        "Using this feature allows you to access the API without having to reverse proxy it. Just access it from:": "이 기능을 사용하면 역방향 프록시를 사용하지 않고도 API에 액세스할 수 있습니다. 다음에서 액세스하세요:",
-        "If you are using multiple URL's (using the csv method) you will have to use the url like these:": "여러 URL을 사용하는 경우(csv 메서드 사용) 다음과 같이 URL을 사용해야 합니다:"
+        "Use Custom Certificate": "사용자 지정 인증서 사용"
     }
 }
