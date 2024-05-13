@@ -921,7 +921,6 @@
         "Use Custom Certificate": "사용자 지정 인증서 사용",
         "Show monitor latency": "모니터 지연 시간 표시",
         "Locale": "지역",
-        "Stats": "통계",
-        "Click here for instructions": "지침을 보려면 여기를 클릭하세요"
+        "Stats": "통계"
     }
 }
