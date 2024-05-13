@@ -926,6 +926,7 @@
         "Queries Blocked": "차단된 쿼리",
         "Percent Blocked": "차단된 비율",
         "Processing Time": "처리 시간",
-        "Domains on Blocklist": "차단 목록에 있는 도메인"
+        "Domains on Blocklist": "차단 목록에 있는 도메인",
+        "Disable access from user dropdown menu": "Disable access from user dropdown menu"
     }
 }
