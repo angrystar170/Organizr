@@ -921,6 +921,11 @@
         "Use Custom Certificate": "사용자 지정 인증서 사용",
         "Show monitor latency": "모니터 지연 시간 표시",
         "Locale": "지역",
-        "Stats": "통계"
+        "Stats": "통계",
+        "Total Queries": "총 쿼리",
+        "Queries Blocked": "차단된 쿼리",
+        "Percent Blocked": "차단된 비율",
+        "Processing Time": "처리 시간",
+        "Domains on Blocklist": "차단 목록에 있는 도메인"
     }
 }
