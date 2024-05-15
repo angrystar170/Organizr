@@ -825,6 +825,7 @@
         "Loading Tautulli...": "Tautulli 로드 중...",
         "Loading Health Checks...": "Health Checks 로드 중...",
         "Loading Speedtest...": "Speedtest 로드 중...",
+        "Loading Uptime Kuma...": "Uptime Kuma 로드 중...",
         "Health Checks": "Health Checks",
         "UniFi": "UniFi",
         "Connection Error to rTorrent": "rTorrent 연결 오류",
