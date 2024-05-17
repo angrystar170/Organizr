@@ -929,6 +929,7 @@
         "Percent Blocked": "차단된 비율",
         "Processing Time": "처리 시간",
         "Domains on Blocklist": "차단 목록에 있는 도메인",
-        "Disable access from user dropdown menu": "사용자 드롭다운 메뉴에서 액세스 비활성화"
+        "Disable access from user dropdown menu": "사용자 드롭다운 메뉴에서 액세스 비활성화",
+        "Hide Menu": "메뉴 숨기기"
     }
 }
